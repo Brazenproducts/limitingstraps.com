@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://limitingstraps.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://limitingstraps.com/best-suspension-limit-straps.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://limitingstraps.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://limitingstraps.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://limitingstraps.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-buyers-handbook-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-practical-guide-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://limitingstraps.com/best-limitingstraps-2026.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://limitingstraps.com/how-to-pick-limitingstraps-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://limitingstraps.com/what-we-look-for-limitingstraps-2026.html</loc><lastmod>2026-05-25</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-explained-2026.html</loc><lastmod>2026-05-27</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-market-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-tested-ranked-2026.html</loc><lastmod>2026-06-04</lastmod></url>
-  <url><loc>https://limitingstraps.com/limitingstraps-quality-vs-marketing.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://limitingstraps.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
